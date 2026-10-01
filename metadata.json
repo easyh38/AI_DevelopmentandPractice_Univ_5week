@@ -1,0 +1,6 @@
+{
+  "name": "College Student Fatigue Survey",
+  "description": "대학생의 피곤함 수치를 측정하고 설문 응답을 수집 및 엑셀로 내보내는 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
